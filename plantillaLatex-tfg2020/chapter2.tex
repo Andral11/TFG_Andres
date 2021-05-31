@@ -178,12 +178,12 @@ Sin embargo, por la restricción de hardware impuestas hacer una corrección ind
   \begin{center}
     \subfigure[Previo a corrección]{
         \includegraphics[width=0.7\textwidth]{figures/GraficarUnicarAntesdecorreccion.eps}
-        \label{Unicar_pre}}
+        \label{subfig:Unicar_pre}}
     \subfigure[Después corrección]{
         \includegraphics[width=0.7\textwidth]{figures/GraficarUnicardespuescorreccion.eps}
-        \label{Unicar_pos}}
+        \label{subfig:Unicar_pos}}
     \caption{Corrección con filtro de Kalman:Antes y después}
-    \label{CorrciónUnicar}
+    \label{fig:CorrciónUnicar}
   \end{center}
 \end{figure}
 \newpage
@@ -235,3 +235,26 @@ Una vez establecido el sistema en coordenadas relativas se puede realizar la cor
 	\item Es una combinación no lineal de los estados por lo que la matriz H se tendrá que ajustar a este hecho. 
 \end{itemize}
 Por último, hacer una corrección con una sola distancia presenta ambigüedad puesto a que si el segundo se encuentra en cualquier posición dentro del círculo de radio $d_{21}$, se detectara como que la trayectoria estimada es correcta a pesar de que el vehículo se puede estar desplazando en una dirección opuesta a la trayectoria real. 
+
+\begin{figure}[htb]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/RadioAmbiguedad.eps}
+\caption{Circunferencia correspondiente a $d_{21}$} 
+\label{fig:Ambiguedad_1d}
+\end{figure}
+\par 
+
+En la figura \ref{fig:Ambiguedad_1d} se muestra todos los puntos que tendrán una salida igual utilizando la matriz H discutida anteriormente. Ahora si se plantea un caso posible donde la velocidad real del vehículo difiere de la velocidad estimada de tal manera que la distancia sea la misma para ambas se podrá observar la consecuencia de solo tener una corrección con solo una medida de distancia \ref{fig:Corrción2car}. 
+
+\begin{figure}[!htb]
+  \begin{center}
+    \subfigure[Previo a corrección]{
+        \includegraphics[width=0.7\textwidth]{figures/AmbiguedadPrecorreccion.eps}
+        \label{subfig:2car_pre}}
+    \subfigure[Después corrección]{
+        \includegraphics[width=0.7\textwidth]{figures/AmbiguedadPostcorreccion.eps}
+        \label{subfig:2car_pos}}
+    \caption{Corrección con filtro de Kalman:Antes y después}
+    \label{fig:Corrción2car}
+  \end{center}
+\end{figure}
