@@ -94,7 +94,7 @@ Como se observo en una sección anterior la actualización de la incertidumbre d
  \begin{aligned}
 P(k+1)&=FP(k)F'+GQG'
 \end{aligned}
-\right\}
+\right\
 \end{equation*}
 Donde la matriz Q es la matriz de covarianza de la entrada.
 \par
@@ -179,7 +179,7 @@ Sin embargo, por la restricción de hardware impuestas hacer una corrección ind
     \subfigure[Previo a corrección]{
         \includegraphics[width=0.7\textwidth]{figures/GraficarUnicarAntesdecorreccion.eps}
         \label{subfig:Unicar_pre}}
-    \subfigure[Después corrección]{
+    \subfigure[Después de corrección]{
         \includegraphics[width=0.7\textwidth]{figures/GraficarUnicardespuescorreccion.eps}
         \label{subfig:Unicar_pos}}
     \caption{Corrección con filtro de Kalman:Antes y después}
@@ -244,17 +244,17 @@ Por último, hacer una corrección con una sola distancia presenta ambigüedad p
 \end{figure}
 \par 
 
-En la figura \ref{fig:Ambiguedad_1d} se muestra todos los puntos que tendrán una salida igual utilizando la matriz H discutida anteriormente. Ahora si se plantea un caso posible donde la velocidad real del vehículo difiere de la velocidad estimada de tal manera que la distancia sea la misma para ambas se podrá observar la consecuencia de solo tener una corrección con solo una medida de distancia \ref{fig:Corrción2car}. 
+En la figura \ref{fig:Ambiguedad_1d} se muestra todos los puntos que tendrán una salida igual utilizando la matriz H discutida anteriormente. Ahora si se plantea un caso posible donde la velocidad real del vehículo difiere de la velocidad estimada de tal manera que la distancia sea la misma para ambas se podrá observar la consecuencia de solo tener una corrección con solo una medida de distancia \ref{fig:Correción2car}. 
 
 \begin{figure}[!htb]
   \begin{center}
     \subfigure[Previo a corrección]{
         \includegraphics[width=0.7\textwidth]{figures/AmbiguedadPrecorreccion.eps}
         \label{subfig:2car_pre}}
-    \subfigure[Después corrección]{
+    \subfigure[Después de corrección]{
         \includegraphics[width=0.7\textwidth]{figures/AmbiguedadPostcorreccion.eps}
         \label{subfig:2car_pos}}
     \caption{Corrección con filtro de Kalman:Antes y después}
-    \label{fig:Corrción2car}
+    \label{fig:Correción2car}
   \end{center}
 \end{figure}
