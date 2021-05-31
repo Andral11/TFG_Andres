@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.29)  31 MAY 2021 03:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.29)  1 JUN 2021 00:33
 entering extended mode
 **./principal.tex
 (principal.tex
@@ -484,7 +484,7 @@ LaTeX Info: Redefining \nameref on input line 150.
 
 \c@lstlisting=\count301
  (title.tex
-<figures/escudo.jpg, id=74, 210.7875pt x 240.9pt>
+<figures/escudo.jpg, id=78, 210.7875pt x 240.9pt>
 File: figures/escudo.jpg Graphic file (type jpg)
 <use figures/escudo.jpg>
 Package pdftex.def Info: figures/escudo.jpg  used on input line 43.
@@ -494,7 +494,7 @@ Package pdftex.def Info: figures/escudo.jpg  used on input line 43.
 
 {C:/Users/Andres/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./figures/escu
 do.jpg>] [0]
-<figures/cc-by-nc-sa.png, id=89, 323.2075pt x 112.42pt>
+<figures/cc-by-nc-sa.png, id=93, 323.2075pt x 112.42pt>
 File: figures/cc-by-nc-sa.png Graphic file (type png)
 <use figures/cc-by-nc-sa.png>
 Package pdftex.def Info: figures/cc-by-nc-sa.png  used on input line 49.
@@ -587,7 +587,7 @@ pdfTeX warning: pdflatex (file ./figures/Figura-de-desviación-de-un-vehiculo-c
 on-posición-incial-deferente-a-la-real-eps-converted-to.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
 <figures/Figura-de-desviación-de-un-vehiculo-con-posición-incial-deferente-a-
-la-real-eps-converted-to.pdf, id=174, 421.575pt x 316.18124pt>
+la-real-eps-converted-to.pdf, id=179, 421.575pt x 316.18124pt>
 File: figures/Figura-de-desviación-de-un-vehiculo-con-posición-incial-deferen
 te-a-la-real-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/Figura-de-desviación-de-un-vehiculo-con-posición-incial-deferent
@@ -615,7 +615,7 @@ pdfTeX warning: pdflatex (file ./figures/Figura-de-desviación-de-un-vehiculo-c
 on-velocidad-inicial-diferente-a-la-real-eps-converted-to.pdf): PDF inclusion: 
 found PDF version <1.7>, but at most version <1.5> allowed
 <figures/Figura-de-desviación-de-un-vehiculo-con-velocidad-inicial-diferente-a
--la-real-eps-converted-to.pdf, id=175, 421.575pt x 316.18124pt>
+-la-real-eps-converted-to.pdf, id=180, 421.575pt x 316.18124pt>
 File: figures/Figura-de-desviación-de-un-vehiculo-con-velocidad-inicial-difere
 nte-a-la-real-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/Figura-de-desviación-de-un-vehiculo-con-velocidad-inicial-diferen
@@ -662,7 +662,7 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./figures/GraficarUnicarAntesdecorreccion-eps-co
 nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
 .5> allowed
-<figures/GraficarUnicarAntesdecorreccion-eps-converted-to.pdf, id=200, 421.575p
+<figures/GraficarUnicarAntesdecorreccion-eps-converted-to.pdf, id=205, 421.575p
 t x 316.18124pt>
 File: figures/GraficarUnicarAntesdecorreccion-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -687,7 +687,7 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./figures/GraficarUnicardespuescorreccion-eps-co
 nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
 .5> allowed
-<figures/GraficarUnicardespuescorreccion-eps-converted-to.pdf, id=201, 421.575p
+<figures/GraficarUnicardespuescorreccion-eps-converted-to.pdf, id=206, 421.575p
 t x 316.18124pt>
 File: figures/GraficarUnicardespuescorreccion-eps-converted-to.pdf Graphic file
  (type pdf)
@@ -712,7 +712,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex (file ./figures/Sistema2CarAbs-Rel-eps-converted-to.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/Sistema2CarAbs-Rel-eps-converted-to.pdf, id=224, 421.575pt x 316.18124
+<figures/Sistema2CarAbs-Rel-eps-converted-to.pdf, id=229, 421.575pt x 316.18124
 pt>
 File: figures/Sistema2CarAbs-Rel-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/Sistema2CarAbs-Rel-eps-converted-to.pdf>
@@ -735,7 +735,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex (file ./figures/RadioAmbiguedad-eps-converted-to.pdf):
  PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<figures/RadioAmbiguedad-eps-converted-to.pdf, id=237, 421.575pt x 316.18124pt>
+<figures/RadioAmbiguedad-eps-converted-to.pdf, id=242, 421.575pt x 316.18124pt>
 
 File: figures/RadioAmbiguedad-eps-converted-to.pdf Graphic file (type pdf)
 <use figures/RadioAmbiguedad-eps-converted-to.pdf>
@@ -758,7 +758,7 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./figures/AmbiguedadPrecorreccion-eps-converted-
 to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
 wed
-<figures/AmbiguedadPrecorreccion-eps-converted-to.pdf, id=240, 421.575pt x 316.
+<figures/AmbiguedadPrecorreccion-eps-converted-to.pdf, id=245, 421.575pt x 316.
 18124pt>
 File: figures/AmbiguedadPrecorreccion-eps-converted-to.pdf Graphic file (type p
 df)
@@ -782,7 +782,7 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./figures/AmbiguedadPostcorreccion-eps-converted
 -to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
 owed
-<figures/AmbiguedadPostcorreccion-eps-converted-to.pdf, id=241, 421.575pt x 316
+<figures/AmbiguedadPostcorreccion-eps-converted-to.pdf, id=246, 421.575pt x 316
 .18124pt>
 File: figures/AmbiguedadPostcorreccion-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -790,24 +790,24 @@ pdf)
 Package pdftex.def Info: figures/AmbiguedadPostcorreccion-eps-converted-to.pdf 
  used on input line 256.
 (pdftex.def)             Requested size: 326.80385pt x 245.10547pt.
-) (chapter3.tex [11 <./figures/RadioAmbiguedad-eps-converted-to.pdf>]
+[11 <./figures/RadioAmbiguedad-eps-converted-to.pdf>]
 
 LaTeX Warning: Text page 12 contains only floats.
 
 [12 <./figures/AmbiguedadPrecorreccion-eps-converted-to.pdf> <./figures/Ambigue
-dadPostcorreccion-eps-converted-to.pdf>] [13]
+dadPostcorreccion-eps-converted-to.pdf>]) (chapter3.tex [13] [14]
 Cap\'{\i }tulo 3.
-) (chapter4.tex [14
+) (chapter4.tex [15
 
-] [15]
+] [16]
 Cap\'{\i }tulo 4.
-) (chapter5.tex [16
+) (chapter5.tex [17
 
-] [17]
+] [18]
 Cap\'{\i }tulo 5.
-) (bibliography.tex [18
+) (bibliography.tex [19
 
-] [19]
+] [20]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
 .
 
@@ -818,7 +818,7 @@ No file principal.bbl.
 
 Package natbib Warning: There were multiply defined citations.
 
-[20
+[21
 
 pdfTeX warning (ext4): destination with the same identifier (name{cite.MQTT}) h
 as been already used, duplicate ignored
@@ -836,14 +836,20 @@ Package natbib Warning: Citation(s) may have changed.
 (natbib)                Rerun to get citations correct.
 
 )
-Package rerunfilecheck Info: File `principal.out' has not changed.
-(rerunfilecheck)             Checksum: 72FAF531F7F645EE68A4DAB77ACBFF99;2739.
+
+Package rerunfilecheck Warning: File `principal.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `principal.out':
+(rerunfilecheck)             Before: 8830BB78981407AF079E6F0B7839B5E2;2924
+(rerunfilecheck)             After:  BEEA02239D5B95DDEDFA2C0C963E8F68;3282.
  ) 
 Here is how much of TeX's memory you used:
- 12545 strings out of 479334
- 184060 string characters out of 2856609
- 496726 words of memory out of 3000000
- 29683 multiletter control sequences out of 15000+200000
+ 12551 strings out of 479334
+ 184138 string characters out of 2856609
+ 495779 words of memory out of 3000000
+ 29685 multiletter control sequences out of 15000+200000
  419559 words of font info for 64 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,16n,74p,499b,442s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -871,9 +877,9 @@ pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Users/A
 ndres/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
 D:/Users/Andres/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 sy8.pfb>
-Output written on principal.pdf (28 pages, 775563 bytes).
+Output written on principal.pdf (29 pages, 781642 bytes).
 PDF statistics:
- 798 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
- 195 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 822 PDF objects out of 1000 (max. 8388607)
+ 69 named destinations out of 1000 (max. 500000)
+ 203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
